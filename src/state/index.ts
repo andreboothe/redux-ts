@@ -1,2 +1,3 @@
 export * from './store';
-export * as ActionCreators from './actions-creators';
+export * as actionCreators from './actions-creators';
+export * from './reducers';
